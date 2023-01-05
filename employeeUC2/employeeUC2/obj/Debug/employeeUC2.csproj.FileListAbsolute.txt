@@ -1,0 +1,8 @@
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\bin\Debug\employeeUC2.exe.config
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\bin\Debug\employeeUC2.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\bin\Debug\employeeUC2.pdb
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\obj\Debug\employeeUC2.csproj.AssemblyReference.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\obj\Debug\employeeUC2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\obj\Debug\employeeUC2.csproj.CoreCompileInputs.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\obj\Debug\employeeUC2.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeUC2\employeeUC2\obj\Debug\employeeUC2.pdb
