@@ -1,0 +1,8 @@
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\obj\Debug\employeeAttendanceUC1.csproj.AssemblyReference.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\obj\Debug\employeeAttendanceUC1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\obj\Debug\employeeAttendanceUC1.csproj.CoreCompileInputs.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\bin\Debug\employeeAttendanceUC1.exe.config
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\bin\Debug\employeeAttendanceUC1.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\bin\Debug\employeeAttendanceUC1.pdb
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\obj\Debug\employeeAttendanceUC1.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeeAttendanceUC1\employeeAttendanceUC1\obj\Debug\employeeAttendanceUC1.pdb
