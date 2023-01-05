@@ -1,0 +1,8 @@
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\bin\Debug\employeePartTimeUC3.exe.config
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\bin\Debug\employeePartTimeUC3.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\bin\Debug\employeePartTimeUC3.pdb
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\obj\Debug\employeePartTimeUC3.csproj.AssemblyReference.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\obj\Debug\employeePartTimeUC3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\obj\Debug\employeePartTimeUC3.csproj.CoreCompileInputs.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\obj\Debug\employeePartTimeUC3.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeePartTimeUC3\employeePartTimeUC3\obj\Debug\employeePartTimeUC3.pdb
