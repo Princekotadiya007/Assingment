@@ -1,0 +1,8 @@
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\bin\Debug\employeWageSwitch.exe.config
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\bin\Debug\employeWageSwitch.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\bin\Debug\employeWageSwitch.pdb
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\obj\Debug\employeWageSwitch.csproj.AssemblyReference.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\obj\Debug\employeWageSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\obj\Debug\employeWageSwitch.csproj.CoreCompileInputs.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\obj\Debug\employeWageSwitch.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageSwitch\employeWageSwitch\obj\Debug\employeWageSwitch.pdb
