@@ -1,0 +1,8 @@
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\obj\Debug\empWageMonthUC5.csproj.AssemblyReference.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\obj\Debug\empWageMonthUC5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\obj\Debug\empWageMonthUC5.csproj.CoreCompileInputs.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\bin\Debug\empWageMonthUC5.exe.config
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\bin\Debug\empWageMonthUC5.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\bin\Debug\empWageMonthUC5.pdb
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\obj\Debug\empWageMonthUC5.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\empWageMonthUC5\empWageMonthUC5\obj\Debug\empWageMonthUC5.pdb
