@@ -1,0 +1,8 @@
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\bin\Debug\employeWageComputation.exe.config
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\bin\Debug\employeWageComputation.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\bin\Debug\employeWageComputation.pdb
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\obj\Debug\employeWageComputation.csproj.AssemblyReference.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\obj\Debug\employeWageComputation.csproj.SuggestedBindingRedirects.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\obj\Debug\employeWageComputation.csproj.CoreCompileInputs.cache
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\obj\Debug\employeWageComputation.exe
+C:\Users\dineshkapuriya\Desktop\assingment\employeeUC1\employeWageWorkingDatHrsUC6\employeWageComputation\obj\Debug\employeWageComputation.pdb
